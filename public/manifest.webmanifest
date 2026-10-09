@@ -1,0 +1,19 @@
+{
+  "name": "EO ANIME — Semua Anime, Satu Dunia",
+  "short_name": "EO ANIME",
+  "description": "Katalog anime subtitle Indonesia, jadwal tayang, detail episode, dan pilihan server video EO ANIME.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fbfaf8",
+  "theme_color": "#6d5bd0",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
